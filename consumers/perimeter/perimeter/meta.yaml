@@ -1,0 +1,6 @@
+tyks:
+  - env: dev
+    namespace: perimeter
+    version: "0.1.0"
+    maxdbsize: "50Mi"
+    alert: false
